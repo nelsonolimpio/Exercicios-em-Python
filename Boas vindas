@@ -1,3 +1,5 @@
+"Pedir para o usuário digitar o nome dele, e logo em seguida imprimir uma mensasem de boas vindas usando o nome que ele digitou".
+
 nome=input("Digite seu nome:")
 print("É um prazer te conhecer, {}!".format(nome))
 

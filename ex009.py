@@ -1,4 +1,4 @@
-#Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+"Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada."
 
 
 tabuada = int(input("Tabuada do número:"))

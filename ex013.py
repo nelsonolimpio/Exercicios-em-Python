@@ -1,4 +1,4 @@
-#Faça um algoritmo que mostre o salário de um funcionário e mostre seu novo salário com 15% de desconto
+'''Faça um algoritmo que mostre o salário de um funcionário e mostre seu novo salário com 15% de desconto'''
 
 sal = float(input("Digite o salário:"))
 
